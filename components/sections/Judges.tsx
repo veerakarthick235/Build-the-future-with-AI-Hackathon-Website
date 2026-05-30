@@ -8,7 +8,7 @@ import TiltCard from "../TiltCard";
 const judges = [
   { name: "Mihir Shelar", company: "Amazon", image: '/judges/mihir.jpeg', color: "from-orange-500 to-amber-500", glow: "rgba(249, 115, 22, 0.2)" },
   { name: "Karthik Karunanith", company: "IBM", image: '/judges/karthik.jpeg', color: "from-blue-600 to-blue-400", glow: "rgba(37, 99, 235, 0.2)" },
-  { name: "Naga Deepak Pothuraju", company: "TikTok", image: '/judges/naga-deepak-pothuraju.jpg', color: "from-pink-500 to-rose-500", glow: "rgba(236, 72, 153, 0.2)" },
+  { name: "Naga Deepak Pothuraju", company: "TikTok", image: '/judges/naga.jpeg', color: "from-pink-500 to-rose-500", glow: "rgba(236, 72, 153, 0.2)" },
   { name: "Xingpeng Xiao", company: "Disney", image: '/judges/xiao.jpeg', color: "from-blue-500 to-indigo-500", glow: "rgba(99, 102, 241, 0.2)" },
   { name: "Archaana Pattabhii", company: "Senior Vice President", image: '/judges/arch.jpeg', color: "from-purple-500 to-violet-600", glow: "rgba(168, 85, 247, 0.2)" },
   { name: "Ankita Banerjee", company: "Walmart Global Tech", image: '/judges/ankita.jpeg', color: "from-blue-500 to-cyan-500", glow: "rgba(6, 182, 212, 0.2)" },
