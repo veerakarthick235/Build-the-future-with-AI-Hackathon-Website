@@ -16,7 +16,7 @@ const judges = [
   { name: "Andrei Shcherbinin", company: "Social Discovery Group", image: '/judges/andrei.jpeg', color: "from-emerald-500 to-teal-500", glow: "rgba(16, 185, 129, 0.2)" },
   { name: "Rajesh Soma", company: "Business Systems Analyst", image: '/judges/som.jpeg', color: "from-indigo-500 to-blue-500", glow: "rgba(99, 102, 241, 0.2)" },
   { name: "Ratna Kumar B", company: "Google Cloud Architect", image: '/judges/kumar.jpeg', color: "from-sky-500 to-blue-600", glow: "rgba(14, 165, 233, 0.2)" },
-  { name: "Ankur Bhatnagar", company: "Enterprise Integration Architect", image: '/judges/ankur-bhatnagar.jpg', color: "from-slate-500 to-indigo-500", glow: "rgba(100, 116, 139, 0.2)" },
+  { name: "Ankur Bhatnagar", company: "Enterprise Integration Architect", image: '/judges/ankur.jpeg', color: "from-slate-500 to-indigo-500", glow: "rgba(100, 116, 139, 0.2)" },
   { name: "Praneetha Kotla", company: "Solutions Architect", image: '/judges/kotla.jpeg', color: "from-violet-500 to-purple-600", glow: "rgba(139, 92, 246, 0.2)" },
   { name: "Preethi Bharathy", company: "Data Scientist", image: '/judges/ms_suraj.jpeg', color: "from-cyan-500 to-indigo-500", glow: "rgba(6, 182, 212, 0.2)" },
   { name: "Suraj Devatha", company: "Senior Software Engineer", image: '/judges/suraj.jpeg', color: "from-green-500 to-emerald-600", glow: "rgba(34, 197, 94, 0.2)" },
