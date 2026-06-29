@@ -47,7 +47,7 @@ export default function Judges() {
             Industry <span className="gradient-text">Judges</span>
           </h2>
           <p className="text-slate-400 text-lg max-w-2xl mx-auto">
-            17+ top professionals from world-class companies will evaluate your projects.
+            20+ top professionals from world-class companies will evaluate your projects.
           </p>
         </motion.div>
 
