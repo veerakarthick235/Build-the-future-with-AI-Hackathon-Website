@@ -56,9 +56,9 @@ export default function CTA() {
             {/* Stats row */}
             <div className="flex flex-wrap items-center justify-center gap-8 mb-10">
               {[
-                { icon: Users, value: "100+", label: "Participants" },
+                { icon: Users, value: "500+", label: "Participants" },
                 { icon: Trophy, value: "7+", label: "Prize Categories" },
-                { icon: Sparkles, value: "17+", label: "Industry Judges" },
+                { icon: Sparkles, value: "20+", label: "Industry Judges" },
               ].map((stat) => {
                 const Icon = stat.icon;
                 return (
