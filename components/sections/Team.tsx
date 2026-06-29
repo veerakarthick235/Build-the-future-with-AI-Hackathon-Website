@@ -6,7 +6,7 @@ import { useInView } from "react-intersection-observer";
 const team = [
   { name: 'Karthickkumar S', role: 'Founder & Organizer', photo: '/team/veera_karthick.jpeg', order: 1, gradient: "from-purple-500 to-indigo-600" },
   { name: 'Sarjan P', role: 'Co Organizer', photo: '/team/sarjan.jpeg', order: 2, gradient: "from-blue-500 to-cyan-500" },
-  { name: 'Lokesh M', role: 'Manager', photo: '/team/loki.png', order: 3, gradient: "from-emerald-500 to-teal-600" },
+  { name: 'Lokesh M', role: 'Co Organizer', photo: '/team/loki.png', order: 3, gradient: "from-emerald-500 to-teal-600" },
 ];
 
 export default function Team() {
