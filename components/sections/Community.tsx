@@ -108,7 +108,7 @@ export default function Community() {
           <div className="inline-flex items-center gap-3 glass px-8 py-4 rounded-2xl border border-white/10">
             <Globe className="w-5 h-5 text-cyan-400" />
             <span className="text-slate-300 font-medium">
-              Join <span className="text-white font-bold">63+</span> participants already registered from around the world
+              Join <span className="text-white font-bold">500+</span> participants already registered from around the world
             </span>
             <Sparkles className="w-5 h-5 text-purple-400" />
           </div>
