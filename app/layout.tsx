@@ -43,7 +43,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: "Build the Future with AI — Hackathon 2026",
-    description: "Join 63+ students building real-world AI projects. Free. Online. Global.",
+    description: "Join 500+ students building real-world AI projects. Free. Online. Global.",
   },
   robots: {
     index: true,
